@@ -13,8 +13,9 @@
 <img src="/flowchart.png"/>
 
 
-<p>Part of the complete javascript course by Jonas Schmedtmann</p>
+
 
 ## **Demo**
 
 <img src="/Demo.gif"/>
+<p>Part of the complete javascript course by Jonas Schmedtmann</p>
